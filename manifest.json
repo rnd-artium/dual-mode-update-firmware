@@ -1,0 +1,6 @@
+{
+  "version": "1.0.1",
+  "release_notes": "Peningkatan performa, akurasi sensor, dan stabilitas koneksi Bluetooth.",
+  "download_url": "https://raw.githubusercontent.com/rnd-artium/dual-mode-update-firmware/main/firmware_secure.bin",
+  "module_id": 4
+}
